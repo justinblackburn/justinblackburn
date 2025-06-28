@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I’m Justin Blackburn
 
-<!--
-**justinblackburn/justinblackburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Lead Infrastructure Engineer / Information Security Engineer – Fraud AI @ Wells Fargo**  
+**25x Inventor • AI Grad Student • Educator**
 
-Here are some ideas to get you started:
+I lead secure infrastructure for large-scale AI platforms, with a focus on **automation, integrity, and operational resilience**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 **25+ U.S. patents** across MFA, cloud compliance, secure comms, and platform automation  
+- 🧠 Honored in the **Wells Fargo Inventor Hall of Fame**  
+- ⚙️ Technical lead for Spark, Nomad, Vault, AAP, and Elastic infrastructure supporting Fraud AI systems  
+- 🎓 Currently pursuing a **Master’s in AI** through Arizona State University  
+- 🧑‍🏫 **Cybersecurity instructor** at Montana State University  
+
+---
+
+### 🔗 Links & Profiles
+
+- 💼 [LinkedIn](https://linkedin.com/in/justinblackburnmt)  
+- 📚 [Arizona State University (AI)](https://www.asu.edu/)  
+- 🏔️ [Montana State University (Teaching)](https://www.montana.edu/)
