@@ -17,4 +17,4 @@ I lead secure infrastructure for large-scale AI platforms, with a focus on **aut
 
 - 💼 [LinkedIn](https://linkedin.com/in/justinblackburnmt)  
 - 📚 [Arizona State University (AI)](https://www.asu.edu/)  
-- 🏔️ [Montana State University (Teaching)](https://www.montana.edu/)
+- 🏔️ [Montana State University Cybersecurity (Teaching)](https://gallatin.montana.edu/academics/cybersecurity/)
